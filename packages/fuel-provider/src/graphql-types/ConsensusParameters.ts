@@ -1,0 +1,17 @@
+const ConsensusParameters = `
+contractMaxSize
+maxInputs
+maxOutputs
+maxWitnesses
+maxGasPerTx
+maxScriptLength
+maxScriptDataLength
+maxStorageSlots
+maxPredicateLength
+maxPredicateDataLength
+gasPriceFactor
+gasPerByte
+maxMessageDataLength
+`;
+
+export default ConsensusParameters;
